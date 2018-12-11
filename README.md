@@ -1,2 +1,4 @@
 # hello-world
-first ripositori
+first ripository
+
+Hi i'm Dhruvin Chaudhari, I like javascript
